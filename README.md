@@ -7,8 +7,8 @@
 
 ## how to install virtual environment
 
-python -m venv myvenv
+> python -m venv myvenv
 
 ## how to install packages
 
-pip install requirements.txt
+> pip install requirements.txt
