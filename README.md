@@ -1,4 +1,4 @@
-**this repository specially made for ecommerse master students (entrance 1402 - 01) in Science and Arts university, yazd, iran.** 
+**این مخزن فایل های آموزشی پایتون برای دانشجویان ارشد رشته مهندسی فناوری اطلاعات دانشگاه علم و هنر ورودی ۱۴۰۲ است.** 
 
 
 ### consider you have to create python virtual environment at the begin.
