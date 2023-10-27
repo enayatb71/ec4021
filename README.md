@@ -5,9 +5,24 @@
 
 ### notice: git pull everytime you start practicing.
 
-## how to install virtual environment
+<!-- ## how to install virtual environment
 
-> python -m venv myvenv
+> python -m venv myvenv -->
+
+##### Make a Python 3 virtual environment and activate it:
+
+On Linux / Mac OS:
+```shell
+$ python3 -m venv .venv
+$ source .venv/bin/activate
+```
+
+On Windows:
+
+```shell
+$ python3 -m venv .venv
+$ .venv\Scripts\activate.bat
+```
 
 ## how to install packages
 
